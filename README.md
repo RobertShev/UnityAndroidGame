@@ -1,12 +1,13 @@
 # UnityAndroidGame
 
-# 1.1 Seadmistamine v1
+# Seadmistamine 
+## 1.1 v1
 
 1. Kloneeri git projekti.
 2. Ava Catch It kausta unitys
 3. Testi unitys
 
-# 1.2 Seadmistamine v2
+## 1.2 v2
 
 1.Installi apk fail (CatchIt.apk)
 
@@ -28,5 +29,5 @@ minimum api level on 19. Oli võimalus testida nexus 5 telefonil kus seisab andr
 
 ## Screenshots
 
-<img align=left src="Screenshots/sh1.png" width="149" height="256" title="In Game">
-<img align=left src="Screenshots/sh2.png" width="149" height="256" title="Restart">
+<img align=left src="Screenshots/1.png" width="149" height="256" title="In Game">
+<img align=left src="Screenshots/2.png" width="149" height="256" title="Restart">
