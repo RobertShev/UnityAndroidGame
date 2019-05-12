@@ -1,13 +1,13 @@
 # UnityAndroidGame
 
-# Seadmistamine 
-## 1.1 v1
+# 1. Seadmistamine 
+## 1.1 
 
 1. Kloneeri git projekti.
 2. Ava Catch It kausta unitys
 3. Testi unitys
 
-## 1.2 v2
+## 1.2 
 
 1.Installi apk fail (CatchIt.apk)
 
