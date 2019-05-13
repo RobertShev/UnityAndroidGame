@@ -18,6 +18,8 @@ Juhend oli lühike ja täiuslik.
 
 Juhendi eelduseks on koodiredaktori kasutamis oskus.
 
+[juhend](https://www.youtube.com/watch?v=u9RIoJNKERQ&t)
+
 # 3. SDK Versiooni muutused
 
 minimum api level on 19. Oli võimalus testida nexus 5 telefonil kus seisab android 6 = api level 23.
